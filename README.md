@@ -3,6 +3,7 @@
 
 Control Flow Graph
 
+![garf](https://user-images.githubusercontent.com/82407276/120111802-a7782200-c173-11eb-9291-3ea8f447c8d8.PNG)
 
 
 Цикломатска комплексност
